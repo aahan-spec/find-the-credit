@@ -1,0 +1,7 @@
+{
+  "name": "Find The Card",
+  "description": "Find The Card - A high-stakes search and deduction game where whoever finds the credit card is crowned the winner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
